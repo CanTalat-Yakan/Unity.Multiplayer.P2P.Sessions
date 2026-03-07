@@ -1,0 +1,14 @@
+{
+    "name": "UnityEssentials.Multiplayer.P2P.Sessions",
+    "rootNamespace": "UnityEssentials",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
