@@ -1,6 +1,6 @@
 {
   "name": "com.unityessentials.multiplayer.p2p.sessions",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "Multiplayer P2P Sessions",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
